@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BonusMoney</string>
+    <string name="card_management">Управление картами</string>
+    <string name="loading">Подгрузка компаний</string>
+</resources>
